@@ -2,7 +2,13 @@
 
 
 # 💫 About Me:
-Currently I am learning python 
+👋 I'm Jatin Dadwal, a student and an aspiring programmer.
+
+💻 Currently learning *Python* and exploring web development.
+
+🎯 Interested in building small projects, solving coding challenges, and contributing to open-source in the future.
+
+📚 Always curious to learn new tech and grow as a developer! 
 
 
 ## 🌐 Socials:
